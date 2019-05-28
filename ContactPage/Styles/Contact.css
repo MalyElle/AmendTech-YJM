@@ -1,0 +1,34 @@
+nav {
+    text-align: right;
+    background-color: maroon;
+    padding: 50px;
+    font-size: 1.5rem;
+    border: solid;
+    border-color: navy;
+    
+}
+
+a {
+    color: antiquewhite;
+    text-decoration: none;
+    font-family: fantasy;
+    font-weight: 200;
+    margin-left: 2rem;
+    font-size: 2.0rem;
+}
+a:hover {
+    color: #b76e79;
+    font-size: 2.5rem;
+    transition: ease-in-out;
+}
+
+
+img {
+    width: 150px;
+    height: 120px;
+    border: double;
+    border-color: navy;
+    float: left;
+    margin-left: -3.0rem;
+    margin-top: -2.7rem;
+}
