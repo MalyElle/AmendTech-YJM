@@ -19,11 +19,11 @@ a {
 a:hover {
     color: #b76e79;
     font-size: 2.5rem;
-    transition: ease-in-out;
+    transition: ease-out;
 }
 
 
-img {
+.img {
     width: 150px;
     height: 120px;
     border: double;
@@ -31,4 +31,21 @@ img {
     float: left;
     margin-left: -3.0rem;
     margin-top: -2.7rem;
+}
+
+.img2 {
+    width: 630px;
+    height: 550px;
+    float: left;
+    margin-top: -4rem;
+    border: solid navy
+}
+
+p {
+    font-size: 70px;
+}
+
+.padding {
+    padding-top: 3rem;
+    padding-bottom: 3rem
 }
