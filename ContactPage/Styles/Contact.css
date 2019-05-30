@@ -40,8 +40,7 @@ a:hover {
     margin-top: -4rem;
     border: solid navy
 }
-
-p {
+.p {
     font-size: 70px;
 }
 
@@ -49,3 +48,39 @@ p {
     padding-top: 3rem;
     padding-bottom: 3rem
 }
+
+.padding1 {
+    padding-top: .5rem;
+    padding-bottom: .5rem
+}
+
+.box-height {
+    height:35px;
+    width:550px;
+    font-size: 20px
+}
+
+.box-height1 {
+    height:120px;
+    width:550px;
+    font-size: 20px
+}
+
+button {
+    background-color: maroon;
+    color: white;
+    font-size: 15px
+}
+
+/* footer {
+    background-color: #00000090;
+    color: white;
+    padding-top: 4rem;
+    padding-bottom: 1rem;
+   
+}
+
+footer a {
+    color: white;
+
+} */
