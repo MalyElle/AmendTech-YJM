@@ -19,11 +19,11 @@ a {
 a:hover {
     color: #b76e79;
     font-size: 2.5rem;
-    transition: ease-in-out;
+    transition: ease-out;
 }
 
 
-img {
+.img {
     width: 150px;
     height: 120px;
     border: double;
@@ -32,3 +32,55 @@ img {
     margin-left: -3.0rem;
     margin-top: -2.7rem;
 }
+
+.img2 {
+    width: 630px;
+    height: 550px;
+    float: left;
+    margin-top: -4rem;
+    border: solid navy
+}
+.p {
+    font-size: 70px;
+}
+
+.padding {
+    padding-top: 3rem;
+    padding-bottom: 3rem
+}
+
+.padding1 {
+    padding-top: .5rem;
+    padding-bottom: .5rem
+}
+
+.box-height {
+    height:35px;
+    width:550px;
+    font-size: 20px
+}
+
+.box-height1 {
+    height:120px;
+    width:550px;
+    font-size: 20px
+}
+
+button {
+    background-color: maroon;
+    color: white;
+    font-size: 15px
+}
+
+/* footer {
+    background-color: #00000090;
+    color: white;
+    padding-top: 4rem;
+    padding-bottom: 1rem;
+   
+}
+
+footer a {
+    color: white;
+
+} */
