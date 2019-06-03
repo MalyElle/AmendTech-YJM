@@ -2,21 +2,22 @@ nav {
     text-align: right;
     background-color: maroon;
     padding: 50px;
-    font-size: 1.5rem;
+    font-size: 1.7rem;
     border: solid;
     border-color: navy;
-    
+
 }
 
-a {
+.a {
     color: antiquewhite;
     text-decoration: none;
     font-family: fantasy;
     font-weight: 200;
     margin-left: 2rem;
-    font-size: 2.0rem;
+    font-size: 2.5rem;
 }
-a:hover {
+
+.a:hover {
     color: #b76e79;
     font-size: 2.5rem;
     transition: ease-out;
@@ -29,8 +30,8 @@ a:hover {
     border: double;
     border-color: navy;
     float: left;
-    margin-left: -3.0rem;
-    margin-top: -2.7rem;
+    margin-left: -4.5rem;
+    margin-top: -4.3rem;
 }
 
 .img2 {
@@ -40,47 +41,54 @@ a:hover {
     margin-top: -4rem;
     border: solid navy
 }
+
 .p {
     font-size: 70px;
 }
 
 .padding {
-    padding-top: 3rem;
-    padding-bottom: 3rem
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem
 }
 
 .padding1 {
-    padding-top: .5rem;
-    padding-bottom: .5rem
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem
 }
 
 .box-height {
-    height:35px;
-    width:550px;
+    height: 35px;
+    width: 550px;
     font-size: 20px
 }
 
 .box-height1 {
-    height:120px;
-    width:550px;
+    height: 120px;
+    width: 550px;
     font-size: 20px
 }
 
-button {
+.button {
     background-color: maroon;
     color: white;
     font-size: 15px
 }
 
-/* footer {
+
+
+footer {
     background-color: #00000090;
     color: white;
     padding-top: 4rem;
     padding-bottom: 1rem;
-   
+
 }
 
 footer a {
     color: white;
 
-} */
+}
+
+.clr {
+    clear: both;
+}
