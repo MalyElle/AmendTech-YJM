@@ -1,0 +1,100 @@
+.h2 {
+    color: #D8AEB5;
+    border-left: 6px solid #000080;
+
+}
+
+/*FROM HERE*/
+.img {
+    width: 400px;
+    height: 250px;
+    margin-left: -40px;
+    display: inline;
+    /* float: right;*/
+}
+
+.transform {
+    transform: rotate(270deg);
+    display: inline;
+    float: left;
+    margin-left: 6.5rem;
+    font-family: 'Roboto', sans-serif;
+    font-size: 23px;
+    text-shadow: 3px 3px 10px grey;
+
+}
+
+/*TO HERE*/
+
+/*FROM HERE 2*/
+.img2 {
+    width: 400px;
+    height: 250px;
+    float: right;
+    margin-right: 10rem
+}
+
+.transform2 {
+    transform: rotate(270deg);
+    display: inline;
+    float: left;
+    margin-left: 6.5rem;
+    font-family: 'Roboto', sans-serif;
+    font-size: 23px;
+    text-shadow: 3px 3px 10px grey;
+}
+
+/*TO HERE 2*/
+
+/*FROM HERE 3*/
+.img3 {
+    width: 400px;
+    height: 250px;
+
+    margin-right: -36px;
+    margin-top: 4rem;
+    display: inline;
+    /*float: right;*/
+}
+
+.transform3 {
+    transform: rotate(270deg);
+    display: inline;
+    float: left;
+    margin-left: 6.5rem;
+    margin-top: 7rem;
+    font-family: 'Roboto', sans-serif;
+    font-size: 23px;
+    text-shadow: 3px 3px 10px grey;
+}
+
+/*TO HERE 3*/
+
+/*FROM HERE 4*/
+.img4 {
+    width: 400px;
+    height: 250px;
+
+    margin-left: 6px;
+    margin-top: 3.5rem;
+    display: inline;
+    /*float: right;*/
+}
+
+.transform4 {
+    transform: rotate(270deg);
+    display: inline;
+    float: left;
+    margin-left: 6rem;
+    margin-top: 7rem;
+    font-family: 'Roboto', sans-serif;
+    font-size: 23px;
+    text-shadow: 3px 3px 10px grey;
+}
+
+/*TO HERE 4*/
+.p.one{
+    border-style: solid;
+    border-width: 5px;
+    border-color: white;
+}
