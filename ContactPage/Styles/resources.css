@@ -5,19 +5,20 @@
 }
 
 /*FROM HERE*/
-.img {
-    width: 400px;
+.img1 {
+    width: 450px;
     height: 250px;
-    margin-left: -40px;
     display: inline;
-    /* float: right;*/
+    float: right;
+    margin-right: 110px;
+    margin-top: -93px
 }
-
 .transform {
     transform: rotate(270deg);
     display: inline;
     float: left;
-    margin-left: 6.5rem;
+    margin-left: 53px;
+    margin-top: 70px;
     font-family: 'Roboto', sans-serif;
     font-size: 23px;
     text-shadow: 3px 3px 10px grey;
@@ -27,18 +28,20 @@
 /*TO HERE*/
 
 /*FROM HERE 2*/
-.img2 {
-    width: 400px;
+.image2 {
+    width: 450px;
     height: 250px;
     float: right;
-    margin-right: 10rem
+    margin-right: 7rem;
+    margin-top: -100px
 }
 
 .transform2 {
     transform: rotate(270deg);
     display: inline;
     float: left;
-    margin-left: 6.5rem;
+    margin-left: 3.5rem;
+    margin-top: 80px;
     font-family: 'Roboto', sans-serif;
     font-size: 23px;
     text-shadow: 3px 3px 10px grey;
@@ -48,11 +51,10 @@
 
 /*FROM HERE 3*/
 .img3 {
-    width: 400px;
+    width: 450px;
     height: 250px;
-
-    margin-right: -36px;
-    margin-top: 4rem;
+    margin-left: -39px;
+    margin-top: 70px;
     display: inline;
     /*float: right;*/
 }
@@ -61,8 +63,8 @@
     transform: rotate(270deg);
     display: inline;
     float: left;
-    margin-left: 6.5rem;
-    margin-top: 7rem;
+    margin-left: 3rem;
+    margin-top: 110px;
     font-family: 'Roboto', sans-serif;
     font-size: 23px;
     text-shadow: 3px 3px 10px grey;
@@ -72,11 +74,10 @@
 
 /*FROM HERE 4*/
 .img4 {
-    width: 400px;
+    width: 450px;
     height: 250px;
-
-    margin-left: 6px;
-    margin-top: 3.5rem;
+    margin-left: 122px;
+    margin-top: -9rem;
     display: inline;
     /*float: right;*/
 }
@@ -85,16 +86,203 @@
     transform: rotate(270deg);
     display: inline;
     float: left;
-    margin-left: 6rem;
-    margin-top: 7rem;
+    margin-left: 1rem;
+    margin-top: 150px;
     font-family: 'Roboto', sans-serif;
     font-size: 23px;
     text-shadow: 3px 3px 10px grey;
 }
 
 /*TO HERE 4*/
+/*FROM HERE 5*/
+.img5 {
+    width: 450px;
+    height: 250px;
+    margin-left: 118px;
+    margin-top: -11.5rem;
+    display: inline;
+    /*float: right;*/
+}
+
+.transform5 {
+    transform: rotate(270deg);
+    display: inline;
+    float: left;
+    margin-left: -3.1rem;
+    margin-top: 6.5rem;
+    font-family: 'Roboto', sans-serif;
+    font-size: 21px;
+    text-shadow: 3px 3px 10px grey;
+}
+
+/*TO HERE 5*/
+/*FROM HERE 6*/
+.img6 {
+    width: 450px;
+    height: 250px;
+    margin-left: -10px;
+    margin-top: 0.5rem;
+    display: inline;
+    /*float: right;*/
+}
+
+.transform6 {
+    transform: rotate(270deg);
+    display: inline;
+    float: left;
+    margin-left: 100px;
+    margin-top: 25px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 23px;
+    text-shadow: 3px 3px 10px grey;
+}
+
+/*TO HERE 6*/
+/*FROM HERE 7*/
+.img7 {
+    width: 450px;
+    height: 250px;
+    margin-left: 140px;
+    margin-top: -9.5rem;
+    display: inline;
+    /*float: right;*/
+}
+
+.transform7 {
+    transform: rotate(270deg);
+    display: inline;
+    float: left;
+    margin-left: 1rem;
+    margin-top: 180px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 23px;
+    text-shadow: 3px 3px 10px grey;
+}
+
+/*TO HERE 7*/
+/*FROM HERE 8*/
+.img8 {
+    width: 450px;
+    height: 250px;
+    margin-left: 120px;
+    margin-top: -19rem;
+    display: inline;
+    /*float: right;*/
+}
+
+.transform8 {
+    transform: rotate(270deg);
+    display: inline;
+    float: left;
+    margin-left: 3rem;
+    margin-top: -14rem;
+    font-family: 'Roboto', sans-serif;
+    font-size: 23px;
+    text-shadow: 3px 3px 10px grey;
+}
+
+/*TO HERE 8*/
+/*FROM HERE 9*/
+.img9 {
+    width: 450px;
+    height: 250px;
+    margin-left: 142px;
+    margin-top: -6rem;
+    display: inline;
+    /*float: right;*/
+}
+
+.transform9 {
+    transform: rotate(270deg);
+    display: inline;
+    float: left;
+    margin-left: 5rem;
+    margin-top: 115px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 23px;
+    text-shadow: 3px 3px 10px grey;
+}
+
+/*TO HERE 9*/
+/*FROM HERE 10*/
+.img10 {
+    width: 450px;
+    height: 250px;
+    margin-left: 122px;
+    margin-top: -18rem;
+    display: inline;
+    /*float: right;*/
+}
+
+.transform10 {
+    transform: rotate(270deg);
+    display: inline;
+    float: left;
+    margin-left: 2.8rem;
+    margin-top: -195px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 23px;
+    text-shadow: 3px 3px 10px grey;
+}
+
+/*TO HERE 10*/
+/*FROM HERE 11*/
+.img11 {
+    width: 450px;
+    height: 250px;
+    margin-left: 143px;
+    margin-top: 1.5rem;
+    display: inline;
+    /*float: right;*/
+}
+
+.transform11 {
+    transform: rotate(270deg);
+    display: inline;
+    float: left;
+    margin-left: 1rem;
+    margin-top: 185px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 23px;
+    text-shadow: 3px 3px 10px grey;
+}
+
+/*TO HERE 11*/
+/*FROM HERE 12*/
+.img12 {
+    width: 450px;
+    height: 250px;
+    margin-left: 122px;
+    margin-top: -9rem;
+    display: inline;
+    /*float: right;*/
+}
+
+.transform12 {
+    transform: rotate(270deg);
+    display: inline;
+    float: left;
+    margin-left: 1rem;
+    margin-top: 150px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 23px;
+    text-shadow: 3px 3px 10px grey;
+}
+
+/*TO HERE 12*/
 .p.one{
     border-style: solid;
     border-width: 5px;
     border-color: white;
+}
+.hPlacement{
+    margin-top: 45rem;
+}
+.signUp{
+    text-align: center;
+    margin-top: 2rem;
+}
+.VImg{
+    margin-top: 5rem;
+    margin-right: 110px;
 }

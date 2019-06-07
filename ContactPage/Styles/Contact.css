@@ -1,18 +1,17 @@
-nav {
-    text-align: right;
+/*nav {
+    
     background-color: maroon;
-    padding: 50px;
-    font-size: 1.5rem;
-    border: solid;
-    border-color: navy;
+    padding: 10px;
+     1.5rem;
+    
     
 }
 
 a {
-    color: antiquewhite;
+    
     text-decoration: none;
     font-family: fantasy;
-    font-weight: 200;
+    font-weight: 5;
     margin-left: 2rem;
     font-size: 2.0rem;
 }
@@ -20,22 +19,31 @@ a:hover {
     color: #b76e79;
     font-size: 2.5rem;
     transition: ease-out;
+}*/
+nav{
+    text-align: right;
+    font-size: 0;
+    border: solid;
+    border-color: navy;
 }
+a{
+    color: antiquewhite;
+}
+a:hover{
 
-
+}
 .img {
-    width: 150px;
-    height: 120px;
+    width: 85px;
+    height: 70px;
     border: double;
     border-color: navy;
     float: left;
-    margin-left: -3.0rem;
-    margin-top: -2.7rem;
+    margin-left: -13px;
+    margin-top: -0.9rem;
 }
-
 .img2 {
     width: 630px;
-    height: 550px;
+    height: 550px; 
     float: left;
     margin-top: -4rem;
     border: solid navy
