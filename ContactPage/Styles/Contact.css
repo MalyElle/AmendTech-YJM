@@ -8,6 +8,8 @@ nav {
     
 }
 
+
+
 a {
     color: antiquewhite;
     text-decoration: none;
@@ -27,7 +29,7 @@ a:hover {
     width: 150px;
     height: 120px;
     border: double;
-    border-color: navy;
+    border-color: navy; 
     float: left;
     margin-left: -3.0rem;
     margin-top: -2.7rem;
