@@ -10,6 +10,7 @@ nav {
 
 
 
+
 .a {
     color: antiquewhite;
     text-decoration: none;
@@ -30,7 +31,7 @@ nav {
     width: 150px;
     height: 120px;
     border: double;
-    border-color: navy;
+    border-color: navy; 
     float: left;
     margin-left: -4.5rem;
     margin-top: -4.3rem;
@@ -79,7 +80,7 @@ nav {
 
 
 footer {
-    background-color: #00000090;
+    background-color: #00000082;
     color: white;
     padding-top: 4rem;
     padding-bottom: 1rem;
