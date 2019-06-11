@@ -2,277 +2,138 @@
     color: #D8AEB5;
     border-left: 6px solid #000080;
 }
-/*
-.h3r {
-    color: #D8AEB5;
-    border-left: 6px solid #000080;
-    display: block;
-    margin-top: 4rem;
-    text-align: center;
-    margin-bottom: -3rem
-}
-*/
-/*FROM HERE*/
-.img1 {
-    width: 450px;
-    height: 250px;
-    display: inline;
-    float: right;
-    margin-right: 80px;
-    margin-top: -8rem
-}
+.gfg { 
+    border-collapse:separate; 
+    border-spacing:0 55px;}
+
 .transform {
     transform: rotate(270deg);
     display: inline;
     float: left;
-    margin-left: 15px;
-    margin-top: 100px;
+    margin-left: 45px;
+   /* margin-top: 100px; */
     font-family: 'Roboto', sans-serif;
     font-size: 23px;
     text-shadow: 3px 3px 10px grey;
 
-}
-
-/*TO HERE*/
-
-/*FROM HERE 2*/
-.image2 {
-    width: 450px;
-    height: 250px;
-    float: right;
-    margin-right: 5rem;
-    margin-top: -90px
 }
 
 .transform2 {
     transform: rotate(270deg);
     display: inline;
     float: left;
-    margin-left: 4rem;
-    margin-top: 110px;
+    margin-left: 75px;
+   /* margin-top: 110px; */
     font-family: 'Roboto', sans-serif;
     font-size: 23px;
     text-shadow: 3px 3px 10px grey;
-}
-
-/*TO HERE 2*/
-
-/*FROM HERE 3*/
-.img3 {
-    width: 450px;
-    height: 250px;
-    margin-left: -35px;
-    margin-top: 70px;
-    display: inline;
-    
 }
 
 .transform3 {
     transform: rotate(270deg);
     display: inline;
     float: left;
-    margin-left: 1rem;
-    margin-top: 110px;
+     margin-left: 40px;
+   /* margin-top: 110px; */
     font-family: 'Roboto', sans-serif;
     font-size: 23px;
     text-shadow: 3px 3px 10px grey;
-}
-
-/*TO HERE 3*/
-
-/*FROM HERE 4*/
-.img4 {
-    width: 450px;
-    height: 250px;
-    margin-left: 10rem;
-    margin-top: 6rem;
-    margin-bottom: 2.0rem;
-    display: inline;
-  
 }
 
 .transform4 {
     transform: rotate(270deg);
     display: inline;
     float: left;
-    margin-left: -3rem;
-    margin-top: -132px;
+  margin-left: 40px;
+     /*  margin-top: -132px; */
     font-family: 'Roboto', sans-serif;
     font-size: 23px;
     text-shadow: 3px 3px 10px grey;
-}
-
-/*TO HERE 4*/
-/*FROM HERE 5*/
-.img5 {
-    width: 450px;
-    height: 250px;
-    margin-left: 118px;
-    margin-top: -11.5rem;
-    display: inline;
-    
 }
 
 .transform5 {
     transform: rotate(270deg);
     display: inline;
     float: left;
-    margin-left: -3.1rem;
-    margin-top: 6.5rem;
+    margin-left: -60px;
+    /* margin-top: 6.5rem; */
     font-family: 'Roboto', sans-serif;
-    font-size: 21px;
+    font-size: 19px;
     text-shadow: 3px 3px 10px grey;
-}
-
-/*TO HERE 5*/
-/*FROM HERE 6*/
-.img6 {
-    width: 450px;
-    height: 250px;
-    margin-left: -10px;
-    margin-top: 0.5rem;
-    display: inline;
-    
 }
 
 .transform6 {
     transform: rotate(270deg);
     display: inline;
     float: left;
-    margin-left: 100px;
-    margin-top: 25px;
-    font-family: 'Roboto', sans-serif;
+    margin-left: 120px;
+    /* margin-top: 25px;*/
+    font-family: 'Roboto', sans-serif; 
     font-size: 23px;
     text-shadow: 3px 3px 10px grey;
-}
-
-/*TO HERE 6*/
-/*FROM HERE 7*/
-.img7 {
-    width: 450px;
-    height: 250px;
-    margin-left: 140px;
-    margin-top: -9.5rem;
-    display: inline;
-    
 }
 
 .transform7 {
     transform: rotate(270deg);
     display: inline;
     float: left;
-    margin-left: 1rem;
-    margin-top: 180px;
+    margin-left: -15px;
+    /* margin-top: 180px; */
     font-family: 'Roboto', sans-serif;
     font-size: 23px;
     text-shadow: 3px 3px 10px grey;
-}
-
-/*TO HERE 7*/
-/*FROM HERE 8*/
-.img8 {
-    width: 450px;
-    height: 250px;
-    margin-left: 120px;
-    margin-top: -19rem;
-    display: inline;
-    
 }
 
 .transform8 {
     transform: rotate(270deg);
     display: inline;
     float: left;
-    margin-left: 3rem;
-    margin-top: -14rem;
+    margin-left: 45px;
+    /* margin-top: -14rem; */
     font-family: 'Roboto', sans-serif;
-    font-size: 23px;
+    font-size: 20px;
     text-shadow: 3px 3px 10px grey;
-}
-
-/*TO HERE 8*/
-/*FROM HERE 9*/
-.img9 {
-    width: 450px;
-    height: 250px;
-    margin-left: 142px;
-    margin-top: -6rem;
-    display: inline;
-    
 }
 
 .transform9 {
     transform: rotate(270deg);
     display: inline;
     float: left;
-    margin-left: 5rem;
-    margin-top: 115px;
+    margin-left: -1px;
+    /* margin-top: 115px; */
     font-family: 'Roboto', sans-serif;
     font-size: 23px;
     text-shadow: 3px 3px 10px grey;
-}
-
-/*TO HERE 9*/
-/*FROM HERE 10*/
-.img10 {
-    width: 450px;
-    height: 250px;
-    margin-left: 122px;
-    margin-top: -18rem;
-    display: inline;
-    
 }
 
 .transform10 {
     transform: rotate(270deg);
     display: inline;
     float: left;
-    margin-left: 2.8rem;
-    margin-top: -195px;
+    margin-left: 70px;
+    /* margin-top: -195px; */
     font-family: 'Roboto', sans-serif;
     font-size: 23px;
     text-shadow: 3px 3px 10px grey;
-}
-
-/*TO HERE 10*/
-/*FROM HERE 11*/
-.img11 {
-    width: 450px;
-    height: 250px;
-    margin-left: 143px;
-    margin-top: 1.5rem;
-    display: inline;
-    
 }
 
 .transform11 {
     transform: rotate(270deg);
     display: inline;
     float: left;
-    margin-left: 1rem;
-    margin-top: 170px;
+    margin-left: 25px;
+    /* margin-top: 170px; */
     font-family: 'Roboto', sans-serif;
     font-size: 23px;
     text-shadow: 3px 3px 10px grey;
-}
-
-/*TO HERE 11*/
-/*FROM HERE 12*/
-.img12 {
-    width: 450px;
-    height: 250px;
-    margin-left: 122px;
-    margin-top: -30rem;
-    display: inline;
-   
 }
 
 .transform12 {
     transform: rotate(270deg);
     display: inline;
     float: left;
-    margin-left: 1rem;
-    margin-top: -90px;
+    margin-left: 45px;
+    /* margin-top: -90px; */
     font-family: 'Roboto', sans-serif;
     font-size: 23px;
     text-shadow: 3px 3px 10px grey;
@@ -284,8 +145,6 @@
     height: 250px;
     display: inline;
     float: right;
-    margin-right: 360px;
-    margin-top: 10rem;
     border: solid navy
 }
 .p.one{
